@@ -1,0 +1,35 @@
+Java 8 Major Features
+
+Lambda Expressions
+
+Functional Interfaces (@FunctionalInterface)
+
+Streams API (for functional-style operations on collections)
+
+Default Methods in Interfaces (methods with implementation in interfaces)
+
+Method References (ClassName::methodName syntax)
+
+Optional Class (to handle null values safely)
+
+New Date and Time API (java.time package with LocalDate, LocalTime, etc.)
+
+Nashorn JavaScript Engine (embedded JavaScript runtime)
+
+Repeating Annotations (apply same annotation multiple times)
+
+Type Annotations (annotations on types, usable with pluggable type systems)
+
+Parallel Array Operations (Arrays.parallelSort(), etc.)
+
+CompletableFuture API (for asynchronous programming and better concurrency support)
+
+Base64 Encoding and Decoding API (java.util.Base64)
+
+Concurrent Accumulators (e.g., LongAdder, DoubleAdder for better concurrency performance)
+
+Metaspace (replacement of PermGen for JVM memory management)
+
+StringJoiner class (to join strings with delimiter easily)
+
+Improved Type Inference (better support for generics with diamond operator)

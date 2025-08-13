@@ -1,0 +1,26 @@
+Java 14 Features
+
+Records (Preview)
+
+Pattern Matching for instanceof (Preview)
+
+Helpful NullPointerExceptions
+
+NVM Support in the Foreign-Memory Access API (Incubator)
+
+Switch Expressions (Standardized from Java 13)
+
+Text Blocks (Second Preview)
+
+NUMA-Aware Memory Allocation for G1
+
+JFR Event Streaming
+
+Foreign-Memory Access API (Incubator)
+
+Deprecate the ParallelScavenge + SerialOld GC Combination
+
+Packaging Tool (Incubator)
+
+Removal of the Concurrent Mark Sweep (CMS) Garbage Collector
+

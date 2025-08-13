@@ -1,0 +1,26 @@
+List of Java 16 Features
+Records (Standardized)
+
+Pattern Matching for instanceof (Second Preview)
+
+Sealed Classes (Second Preview)
+
+Strongly Encapsulate JDK Internals (by default)
+
+Vector API (Incubator)
+
+Foreign Linker API (Incubator)
+
+Unix-Domain Socket Channels
+
+Stream.toList() method
+
+Set.of() and Map.of() improvements
+
+Datagram Transport Layer Security (DTLS) 1.2 Support
+
+Concurrent Thread-Stack Processing for JVM Crash Reporting
+
+New packaging tool (jpackage)
+
+Various performance and security improvements

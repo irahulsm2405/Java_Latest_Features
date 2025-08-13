@@ -1,0 +1,33 @@
+Java 9 features
+
+Java Platform Module System (JPMS) – Project Jigsaw
+
+JShell (REPL) – Interactive command-line tool
+
+Factory Methods for Immutable Collections (List.of(), Set.of(), Map.of())
+
+Private Methods in Interfaces
+
+Stream API Improvements (takeWhile(), dropWhile(), iterate())
+
+Optional API Enhancements (ifPresentOrElse(), or(), stream())
+
+HTTP 2 Client API (in java.net.http, incubator module)
+
+Process API Updates (ProcessHandle)
+
+Diamond Operator with Anonymous Classes
+
+Try-with-Resources Improvement (effectively final variables allowed)
+
+@SafeVarargs on Private Methods
+
+Deprecated API Enhancements (@Deprecated with forRemoval and since)
+
+Multi-Release JAR Files
+
+Stack-Walking API (StackWalker)
+
+Enhanced Deprecation Mechanism
+
+Improved Version-String Scheme (Java versioning changed)

@@ -1,0 +1,25 @@
+Java 12 features list (all major ones):
+
+Switch Expressions (preview)
+
+New String method: indent(int n)
+
+New String method: transform(Function)
+
+Compact Number Formatting (NumberFormat.getCompactNumberInstance())
+
+Teeing Collector (Collectors.teeing())
+
+Files mismatch method (Files.mismatch(Path, Path))
+
+Shenandoah Garbage Collector (experimental)
+
+Microbenchmark Suite (jmh integration in JDK build)
+
+JVM Constants API
+
+Default CDS Archives (Class Data Sharing by default)
+
+Abortable Mixed Collections for G1 GC
+
+Switch Expression JEP updates (preview improvements)

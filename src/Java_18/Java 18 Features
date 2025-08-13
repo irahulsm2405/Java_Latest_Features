@@ -1,0 +1,14 @@
+Java 18 — Feature List
+
+Regular (GA) :
+
+UTF-8 by Default (JEP 400)
+Simple Web Server (JEP 408)
+Code Snippets in Java API Documentation (JEP 413)
+Internet-Address Resolution SPI (JEP 418)
+Vector API (Third Incubator) (JEP 417) (but niche use)
+
+Preview / Incubator Features:
+
+Pattern Matching for switch (Second Preview) (JEP 420) – Preview
+Foreign Function & Memory API (Second Incubator) (JEP 419) – Incubator

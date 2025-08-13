@@ -1,0 +1,15 @@
+Java 20 — Feature List
+
+Regular (GA) Features:
+
+UTF-8 by Default (JEP 400) — carried forward from Java 18
+(No new major GA features in Java 20 — most changes are preview/incubator.)
+
+Preview / Incubator Features:
+
+Record Patterns (Second Preview) (JEP 432) — Preview
+Pattern Matching for switch (Fourth Preview) (JEP 433) — Preview
+Virtual Threads (Second Preview) (JEP 436) — Preview
+Scoped Values (Incubator) (JEP 429) — Incubator
+Foreign Function & Memory API (Fourth Incubator) (JEP 434) — Incubator
+Structured Concurrency (Second Incubator) (JEP 437) — Incubator

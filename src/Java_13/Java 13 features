@@ -1,0 +1,24 @@
+Java 13 Features List
+Text Blocks (Preview) (JEP 355)
+
+Multi-line string literals with """ syntax.
+
+Switch Expressions (Second Preview) (JEP 354)
+
+Refinements to switch expressions introduced in Java 12, including yield keyword.
+
+Dynamic CDS Archives (JEP 350)
+
+Improves Class Data Sharing by generating class data archives dynamically.
+
+Reimplement the Legacy Socket API (JEP 353)
+
+Updates socket API for better maintainability and performance.
+
+ZGC: Uncommit Unused Memory (JEP 351)
+
+Improves the Z Garbage Collector's ability to return unused memory to OS.
+
+Remove the ParallelScavenge + SerialOld Garbage Collectors (JEP 352)
+
+Removes old garbage collectors.

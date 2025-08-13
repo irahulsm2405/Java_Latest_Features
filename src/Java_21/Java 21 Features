@@ -1,0 +1,15 @@
+Regular (GA) Features:
+
+Sequenced Collections (JEP 431)
+String Templates (JEP 430) ❌ (Preview, not GA — listed later)
+Pattern Matching for switch (JEP 441)
+Record Patterns (JEP 440)
+Virtual Threads (JEP 444)
+Key Encapsulation Mechanism API (JEP 452)
+UTF-8 by Default (JEP 400) — carried forward
+
+Preview / Incubator Features
+String Templates (First Preview) (JEP 430) — Preview
+Structured Concurrency (Second Preview) (JEP 453) — Preview
+Scoped Values (Preview) (JEP 446) — Preview
+Foreign Function & Memory API (JEP 442) — Preview

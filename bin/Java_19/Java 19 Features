@@ -1,0 +1,15 @@
+Java 19 — Feature List
+
+Regular (GA) Features:
+
+UTF-8 by Default (JEP 400) — carried forward from Java 18
+Minor Updates & Bug Fixes (no major new GA APIs)
+
+Preview / Incubator Features:
+
+Record Patterns (Preview) (JEP 405) — Preview
+Pattern Matching for switch (Third Preview) (JEP 427) — Preview
+Virtual Threads (Preview) (JEP 425) — Preview
+Structured Concurrency (Incubator) (JEP 428) — Incubator
+Foreign Function & Memory API (Third Incubator) (JEP 424) — Incubator
+
