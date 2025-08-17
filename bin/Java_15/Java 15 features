@@ -1,0 +1,21 @@
+Java 15 Features
+
+Text Blocks (Standard Feature)
+
+Sealed Classes (Preview)
+
+Records (Standard Feature)
+
+Hidden Classes
+
+Pattern Matching for instanceof (Preview)
+
+Foreign-Memory Access API (Incubator)
+
+ZGC: Concurrent Thread-Stack Processing
+
+EdDSA Signature Algorithm
+
+Shenandoah: Uncommit Unused Memory
+
+Deprecated the Security Manager for Removal

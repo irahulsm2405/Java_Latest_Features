@@ -1,0 +1,25 @@
+Java 17 Features
+
+Sealed Classes
+Control class hierarchies for safer and clearer design.
+
+Pattern Matching for switch (final)
+Simplifies type and value-based switch statements.
+
+Enhanced Pseudo-Random Number Generators
+More flexible and high-quality random number generators.
+
+Text Blocks (introduced earlier but widely used)
+Multi-line string literals for cleaner code (Java 13+).
+
+Records (introduced earlier but widely used)
+Compact syntax for immutable data carriers (Java 16+).
+
+Improved Null Handling (via Pattern Matching)
+Better ways to check and cast objects safely.
+
+Updated Stream API Enhancements (ongoing improvements)
+Useful functional programming improvements.
+
+Local-Variable Syntax for Lambda Parameters
+More readable lambdas with var for parameters.

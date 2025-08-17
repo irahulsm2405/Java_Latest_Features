@@ -1,0 +1,21 @@
+            Local Variable Type Inference (var)
+            Most useful & visible feature — lets the compiler infer the variable type from the initializer. */
+
+            var message = "Hello"; // inferred as String
+            var list = new ArrayList<String>(); // inferred as ArrayList<String>
+
+            Good for:
+            Reducing boilerplate in local variable declarations, especially with generics.
+
+            Rules & limitations:
+            Works only for local variables (inside methods, constructors, loops).
+            Cannot be used for fields, method parameters, or return types.
+            Variable must be initialized at declaration.
+            The inferred type is fixed — var is not dynamic typing.
+
+            2. Minor library & performance improvements
+            These are not game-changers for daily coding, but still relevant if you work with large systems:
+            Unmodifiable collections (List.copyOf, Set.copyOf, Map.copyOf) → Already introduced in Java 9, but optimizations continued.
+            Optional.orElseThrow() without arguments → Java 10 made it the default behavior for get() in Optional in future versions.
+            Parallel Full GC for G1 — Not code-facing, but helps performance in large applications.
+            Heap allocation on alternative memory devices (specialized server stuff).

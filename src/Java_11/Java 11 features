@@ -1,0 +1,25 @@
+Java 11 Daily Coding Useful Features:
+
+- var in lambda parameters – Shorter syntax, useful with annotations.
+
+- New String methods: isBlank(), strip(), stripLeading(), stripTrailing(), lines(), repeat(int)
+
+- Files methods:
+Files.readString(Path)
+Files.writeString(Path, String)
+
+- List.copyOf(), Set.copyOf(), Map.copyOf() – Immutable copies of collections.
+
+- Optional.isEmpty() – Clearer alternative to !isPresent().
+
+- Run .java without javac – Single-file execution from CLI.
+
+Java 11 Non-Daily / Skip for Most Projects:
+
+- HTTP Client API (standardized after being incubating in Java 9 & 10) – useful only if you directly make HTTP requests without libraries like OkHttp.
+- Flight Recorder & Mission Control – monitoring, mostly for production profiling.
+- New Pattern and Matcher methods – rare unless you do heavy regex work.
+- Deprecation/removal of old Java EE modules (CORBA, JAXB, etc.).
+- Epsilon GC – niche performance tuning.
+- Nest-based access control – JVM-level security feature.
+- Local-variable syntax for lambda parameters (already counted above in useful list).
